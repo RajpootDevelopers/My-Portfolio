@@ -36,6 +36,7 @@
 .hero__btn{
     text-transform: capitalize;
     font: var(--size-sm);
+    margin-left: 2.5rem;
 }
 /* xs */
 @media (min-width: 475px){
