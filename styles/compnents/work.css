@@ -112,7 +112,8 @@
     'content6 image6'
     'image7 content7'
     'content8 image8'
-    'image9 content9';
+    'image9 content9'
+    'content10 image10';
     /* justify item, align itmes */
     place-items: center;
   }
@@ -143,6 +144,9 @@
   .work__image9{
     grid-area: image9;
   }
+  .work__image10{
+    grid-area: image10;
+  }
   .work__content1{
     grid-area: content1;
   }
@@ -169,6 +173,9 @@
   }
   .work__content9{
     grid-area: content9;
+  }
+  .work__content10{
+    grid-area: content10;
   }
   .work__project{
     padding: 0 1rem;
